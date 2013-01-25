@@ -2,7 +2,7 @@
 /*
 Plugin Name: Photo Social Icons
 Plugin URI: https://github.com/ElmsPark/photo-social-icons
-Description: Photo Social Icons is just a edited version of Nathan Price's Simple Social Icons, where I replace the Dribble icon with Flickr & StumbleUpon with Vimeo.
+Description: Photo Social Icons is just a edited version of Nathan Rice's Simple Social Icons, where I replace the Dribble icon with Flickr & StumbleUpon with Vimeo.
 Author: Kenn Jordan
 Author URI: http://www.kennjordan.com/
 

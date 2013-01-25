@@ -1,7 +1,7 @@
 photo-social-icons
 ==================
 
-Based on  Nathan Rice's, Simple Social Icons: http://www.studiopress.com/plugins/simple-social-icons
+Based on  Nathan Rice's, Simple Social Icons http://kennjordanphotography.com/simple_social_icons
 
 
 === Plugin Name ===

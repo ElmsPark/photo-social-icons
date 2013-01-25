@@ -1,7 +1,7 @@
 photo-social-icons
 ==================
 
-Edit of Nathan Price, Simple Social Icons: http://www.studiopress.com/plugins/simple-social-icons
+Based on  Nathan Price's, Simple Social Icons: http://www.studiopress.com/plugins/simple-social-icons
 
 
 === Plugin Name ===

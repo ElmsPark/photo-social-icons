@@ -19,10 +19,10 @@ Photo Social Icons is a edited Simple Social Icons which is an easy to use, cust
 
 == Installation ==
 
-1. Upload the entire photo-social-icons folder to the /wp-content/plugins/ directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. In your Widgets menu, simply drag the widget labeled "Simple Social Icons" into a widgetized Area.
-1. Configure the widget by choosing a title, icon size and color, and the URLs to your various social profiles.
+1. Upload the zip file photo-social-icons.zip via your WordPress Admin Panel>Plugins>Add New>Upload
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. In your Widgets menu, simply drag the widget labeled "Simple Social Icons" into a widgetized Area.
+4. Configure the widget by choosing a title, icon size and color, and the URLs to your various social profiles.
 
 == Changelog ==
 

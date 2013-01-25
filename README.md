@@ -24,12 +24,6 @@ Photo Social Icons is a edited Simple Social Icons which is an easy to use, cust
 1. In your Widgets menu, simply drag the widget labeled "Simple Social Icons" into a widgetized Area.
 1. Configure the widget by choosing a title, icon size and color, and the URLs to your various social profiles.
 
-== Frequently Asked Questions ==
-
-= Can I reorder the icons? =
-
-No, not at this time.
-
 == Changelog ==
 
 = 0.0.5 =

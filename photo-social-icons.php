@@ -6,7 +6,7 @@ Description: Photo Social Icons is just a edited version of Nathan Rice's Simple
 Author: Kenn Jordan
 Author URI: http://www.kennjordan.com/
 
-Version: 0.0.5
+Version: 0.0.6
 
 License: GNU General Public License v2.0 (or later)
 License URI: http://www.opensource.org/licenses/gpl-license.php

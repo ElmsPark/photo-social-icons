@@ -29,3 +29,7 @@ Photo Social Icons is a edited Simple Social Icons which is an easy to use, cust
 = 0.0.5 =
 * Replaced Dribble with Flickr icon
 * Replaced StumbleUpon with Vimeo icon
+
+= 0.0.6 =
+* Updated Google+ icon
+
